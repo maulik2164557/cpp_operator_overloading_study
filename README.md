@@ -3,9 +3,9 @@
 ## Member vs Friend Function Behavior
 
 👨‍💻 Author: Maulik N. Patoliya  
-🎓 Branch: Computer Engineering | Semester: 02 | 
+🎓 Branch: Computer Engineering | Semester: 02  
 📘 Subject: Operator Overloading – Complex Cases  
-📍 Material: [Operator_Overloading_(Member + Friend Function Behavior)](#)
+📍 Material: <a href="https://github.com/maulik2164557/cpp_operator_overloading_study/blob/5213775c326fae66f2bd20e8a5d776909cd85030/Operator_Overloading_(%20Member%20%2B%20Friend%20function%20behavior).pdf">[Operator_Overloading_(Member + Friend Function Behavior)]</a>
 
 ---
 
